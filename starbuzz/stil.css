@@ -3,6 +3,10 @@ body {
   font-family: sans-serif;
   margin-left: 10%;
 }
-h2 {
+h2, h3 {
+  font-family: serif;
   color: green;
+}
+.denumire {
+  color: red;
 }

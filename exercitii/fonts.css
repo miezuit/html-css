@@ -1,0 +1,40 @@
+body {
+    box-sizing: border-box;
+}
+#p1 {
+    font-weight: bolder;
+    font-family: 'Alatsi';
+    font-size: 1.2em;
+    text-align: right;
+    border: 3px solid teal;
+    border-radius: 0.5em;
+    padding: 5px 10px 20px;
+    margin: auto;
+    background-color: pink;
+    background-image: url(background.gif);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: contain;
+    color: white;
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+}
+p {
+    font-weight: normal;
+    text-decoration: blink;
+    line-height: 1.2em;
+}
+#p1 span {
+    color: tomato;
+}
+div {
+    background-color: burlywood;
+    border: 2px solid red;
+    padding: 10px;
+}
+div div {
+    background-color: darkturquoise;
+    border: 2px solid blue;
+    width: 75%;
+}
